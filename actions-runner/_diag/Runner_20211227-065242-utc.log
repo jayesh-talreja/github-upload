@@ -1,0 +1,239 @@
+[2021-12-27 06:52:42Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2021-12-27 06:52:42Z INFO HostContext] Well known directory 'Bin': 'C:\Users\jayeshs\GIT\actions-runner\bin'
+[2021-12-27 06:52:42Z INFO HostContext] Well known directory 'Root': 'C:\Users\jayeshs\GIT\actions-runner'
+[2021-12-27 06:52:42Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\jayeshs\GIT\actions-runner\.credentials'
+[2021-12-27 06:52:42Z INFO HostContext] Well known directory 'Bin': 'C:\Users\jayeshs\GIT\actions-runner\bin'
+[2021-12-27 06:52:42Z INFO HostContext] Well known directory 'Root': 'C:\Users\jayeshs\GIT\actions-runner'
+[2021-12-27 06:52:42Z INFO HostContext] Well known config file 'Runner': 'C:\Users\jayeshs\GIT\actions-runner\.runner'
+[2021-12-27 06:52:42Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2021-12-27 06:52:42Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.22000.
+[2021-12-27 06:52:42Z INFO Listener] Version: 2.285.1
+[2021-12-27 06:52:42Z INFO Listener] Commit: 50afba61b40932c1084e31b5e9e7f5af325cc2ac
+[2021-12-27 06:52:42Z INFO Listener] Culture: en-IN
+[2021-12-27 06:52:42Z INFO Listener] UI Culture: en-US
+[2021-12-27 06:52:42Z INFO HostContext] Well known directory 'Bin': 'C:\Users\jayeshs\GIT\actions-runner\bin'
+[2021-12-27 06:52:42Z INFO HostContext] Well known directory 'Root': 'C:\Users\jayeshs\GIT\actions-runner'
+[2021-12-27 06:52:42Z INFO Listener] Validating directory permissions for: 'C:\Users\jayeshs\GIT\actions-runner'
+[2021-12-27 06:52:42Z INFO CommandLineParser] Parse
+[2021-12-27 06:52:42Z INFO CommandLineParser] Parsing 5 args
+[2021-12-27 06:52:42Z INFO CommandLineParser] parsing argument
+[2021-12-27 06:52:42Z INFO CommandLineParser] HasArgs: False
+[2021-12-27 06:52:42Z INFO CommandLineParser] Adding Command: configure
+[2021-12-27 06:52:42Z INFO CommandLineParser] parsing argument
+[2021-12-27 06:52:42Z INFO CommandLineParser] HasArgs: True
+[2021-12-27 06:52:42Z INFO CommandLineParser] arg: url
+[2021-12-27 06:52:42Z INFO CommandLineParser] parsing argument
+[2021-12-27 06:52:42Z INFO CommandLineParser] HasArgs: True
+[2021-12-27 06:52:42Z INFO CommandLineParser] Adding option 'url': 'https://github.com/demo-canarys/GITHUB-actions'
+[2021-12-27 06:52:42Z INFO CommandLineParser] parsing argument
+[2021-12-27 06:52:42Z INFO CommandLineParser] HasArgs: True
+[2021-12-27 06:52:42Z INFO CommandLineParser] arg: token
+[2021-12-27 06:52:42Z INFO CommandLineParser] parsing argument
+[2021-12-27 06:52:42Z INFO CommandLineParser] HasArgs: True
+[2021-12-27 06:52:42Z INFO CommandLineParser] Adding option 'token': '***'
+[2021-12-27 06:52:42Z INFO Listener] Arguments parsed
+[2021-12-27 06:52:42Z INFO Runner] ExecuteCommand
+[2021-12-27 06:52:42Z INFO ConfigurationStore] currentAssemblyLocation: C:\Users\jayeshs\GIT\actions-runner\bin\Runner.Listener.dll
+[2021-12-27 06:52:42Z INFO HostContext] Well known directory 'Bin': 'C:\Users\jayeshs\GIT\actions-runner\bin'
+[2021-12-27 06:52:42Z INFO ConfigurationStore] binPath: C:\Users\jayeshs\GIT\actions-runner\bin
+[2021-12-27 06:52:42Z INFO HostContext] Well known directory 'Bin': 'C:\Users\jayeshs\GIT\actions-runner\bin'
+[2021-12-27 06:52:42Z INFO HostContext] Well known directory 'Root': 'C:\Users\jayeshs\GIT\actions-runner'
+[2021-12-27 06:52:42Z INFO ConfigurationStore] RootFolder: C:\Users\jayeshs\GIT\actions-runner
+[2021-12-27 06:52:42Z INFO HostContext] Well known directory 'Bin': 'C:\Users\jayeshs\GIT\actions-runner\bin'
+[2021-12-27 06:52:42Z INFO HostContext] Well known directory 'Root': 'C:\Users\jayeshs\GIT\actions-runner'
+[2021-12-27 06:52:42Z INFO HostContext] Well known config file 'Runner': 'C:\Users\jayeshs\GIT\actions-runner\.runner'
+[2021-12-27 06:52:42Z INFO ConfigurationStore] ConfigFilePath: C:\Users\jayeshs\GIT\actions-runner\.runner
+[2021-12-27 06:52:42Z INFO HostContext] Well known directory 'Bin': 'C:\Users\jayeshs\GIT\actions-runner\bin'
+[2021-12-27 06:52:42Z INFO HostContext] Well known directory 'Root': 'C:\Users\jayeshs\GIT\actions-runner'
+[2021-12-27 06:52:42Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\jayeshs\GIT\actions-runner\.credentials'
+[2021-12-27 06:52:42Z INFO ConfigurationStore] CredFilePath: C:\Users\jayeshs\GIT\actions-runner\.credentials
+[2021-12-27 06:52:42Z INFO HostContext] Well known directory 'Bin': 'C:\Users\jayeshs\GIT\actions-runner\bin'
+[2021-12-27 06:52:42Z INFO HostContext] Well known directory 'Root': 'C:\Users\jayeshs\GIT\actions-runner'
+[2021-12-27 06:52:42Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Users\jayeshs\GIT\actions-runner\.credentials_migrated'
+[2021-12-27 06:52:42Z INFO ConfigurationStore] MigratedCredFilePath: C:\Users\jayeshs\GIT\actions-runner\.credentials_migrated
+[2021-12-27 06:52:42Z INFO HostContext] Well known directory 'Bin': 'C:\Users\jayeshs\GIT\actions-runner\bin'
+[2021-12-27 06:52:42Z INFO HostContext] Well known directory 'Root': 'C:\Users\jayeshs\GIT\actions-runner'
+[2021-12-27 06:52:42Z INFO HostContext] Well known config file 'Service': 'C:\Users\jayeshs\GIT\actions-runner\.service'
+[2021-12-27 06:52:42Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Users\jayeshs\GIT\actions-runner\.service
+[2021-12-27 06:52:42Z INFO CommandSettings] Flag 'help': 'False'
+[2021-12-27 06:52:42Z INFO CommandSettings] Flag 'version': 'False'
+[2021-12-27 06:52:42Z INFO CommandSettings] Flag 'commit': 'False'
+[2021-12-27 06:52:42Z INFO CommandSettings] Flag 'check': 'False'
+[2021-12-27 06:52:42Z INFO CommandSettings] Command 'configure': 'True'
+[2021-12-27 06:52:42Z INFO Terminal] WRITE LINE: 
+[2021-12-27 06:52:42Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2021-12-27 06:52:42Z INFO Terminal] WRITE LINE: |        ____ _ _   _   _       _          _        _   _                      |
+[2021-12-27 06:52:42Z INFO Terminal] WRITE LINE: |       / ___(_) |_| | | |_   _| |__      / \   ___| |_(_) ___  _ __  ___      |
+[2021-12-27 06:52:42Z INFO Terminal] WRITE LINE: |      | |  _| | __| |_| | | | | '_ \    / _ \ / __| __| |/ _ \| '_ \/ __|     |
+[2021-12-27 06:52:42Z INFO Terminal] WRITE LINE: |      | |_| | | |_|  _  | |_| | |_) |  / ___ \ (__| |_| | (_) | | | \__ \     |
+[2021-12-27 06:52:42Z INFO Terminal] WRITE LINE: |       \____|_|\__|_| |_|\__,_|_.__/  /_/   \_\___|\__|_|\___/|_| |_|___/     |
+[2021-12-27 06:52:42Z INFO Terminal] WRITE LINE: |                                                                              |
+[2021-12-27 06:52:42Z INFO Terminal] WRITE: |                       
+[2021-12-27 06:52:42Z INFO Terminal] WRITE: Self-hosted runner registration
+[2021-12-27 06:52:42Z INFO Terminal] WRITE LINE:                         |
+[2021-12-27 06:52:42Z INFO Terminal] WRITE LINE: |                                                                              |
+[2021-12-27 06:52:42Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2021-12-27 06:52:42Z INFO ConfigurationManager] ConfigureAsync
+[2021-12-27 06:52:42Z INFO ConfigurationStore] IsConfigured()
+[2021-12-27 06:52:42Z INFO ConfigurationStore] IsConfigured: False
+[2021-12-27 06:52:42Z INFO ConfigurationManager] Is configured: False
+[2021-12-27 06:52:42Z INFO CommandSettings] Arg 'url': 'https://github.com/demo-canarys/GITHUB-actions'
+[2021-12-27 06:52:42Z INFO CommandSettings] Remove url from Arg dictionary.
+[2021-12-27 06:52:42Z INFO CommandSettings] Arg 'token': '***'
+[2021-12-27 06:52:42Z INFO CommandSettings] Remove token from Arg dictionary.
+[2021-12-27 06:52:43Z INFO ConfigurationManager] Http response code: OK from 'POST https://api.github.com/actions/runner-registration'
+[2021-12-27 06:52:43Z INFO ConfigurationManager] cred retrieved via GitHub auth
+[2021-12-27 06:52:43Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2021-12-27 06:52:43Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-12-27 06:52:43Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-12-27 06:52:43Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-12-27 06:52:43Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-12-27 06:52:43Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-12-27 06:52:43Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-12-27 06:52:43Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-12-27 06:52:44Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-12-27 06:52:44Z INFO Terminal] WRITE LINE: 
+[2021-12-27 06:52:44Z INFO ConfigurationManager] Test Connection complete.
+[2021-12-27 06:52:44Z INFO HostContext] Well known directory 'Bin': 'C:\Users\jayeshs\GIT\actions-runner\bin'
+[2021-12-27 06:52:44Z INFO HostContext] Well known directory 'Root': 'C:\Users\jayeshs\GIT\actions-runner'
+[2021-12-27 06:52:44Z INFO HostContext] Well known config file 'RSACredentials': 'C:\Users\jayeshs\GIT\actions-runner\.credentials_rsaparams'
+[2021-12-27 06:52:44Z INFO RSAEncryptedFileKeyManager] Found existing RSA key parameters file C:\Users\jayeshs\GIT\actions-runner\.credentials_rsaparams
+[2021-12-27 06:52:44Z INFO CommandSettings] Arg 'runnergroup': ''
+[2021-12-27 06:52:44Z INFO CommandSettings] Flag 'unattended': 'False'
+[2021-12-27 06:52:44Z INFO PromptManager] ReadValue
+[2021-12-27 06:52:44Z INFO Terminal] WRITE: Enter the name of the runner group to add this runner to: 
+[2021-12-27 06:52:44Z INFO Terminal] WRITE: [press Enter for Default] 
+[2021-12-27 06:52:44Z INFO Terminal] READ LINE
+[2021-12-27 06:53:09Z INFO Terminal] Read value: ''
+[2021-12-27 06:53:09Z INFO PromptManager] Falling back to the default: 'Default'
+[2021-12-27 06:53:09Z INFO Terminal] WRITE LINE: 
+[2021-12-27 06:53:09Z INFO ConfigurationManager] Found a self-hosted runner group with id 1 and name Default
+[2021-12-27 06:53:09Z INFO CommandSettings] Flag 'ephemeral': 'False'
+[2021-12-27 06:53:09Z INFO CommandSettings] Arg 'name': ''
+[2021-12-27 06:53:09Z INFO CommandSettings] Flag 'unattended': 'False'
+[2021-12-27 06:53:09Z INFO PromptManager] ReadValue
+[2021-12-27 06:53:09Z INFO Terminal] WRITE: Enter the name of runner: 
+[2021-12-27 06:53:09Z INFO Terminal] WRITE: [press Enter for JOGIGUNDI] 
+[2021-12-27 06:53:09Z INFO Terminal] READ LINE
+[2021-12-27 06:53:22Z INFO Terminal] Read value: 'jayesh'
+[2021-12-27 06:53:22Z INFO Terminal] WRITE LINE: 
+[2021-12-27 06:53:22Z INFO CommandSettings] Arg 'labels': ''
+[2021-12-27 06:53:22Z INFO CommandSettings] Flag 'unattended': 'False'
+[2021-12-27 06:53:22Z INFO PromptManager] ReadValue
+[2021-12-27 06:53:22Z INFO Terminal] WRITE: This runner will have the following labels: 'self-hosted', 'Windows', 'X64' 
+Enter any additional labels (ex. label-1,label-2): 
+[2021-12-27 06:53:22Z INFO Terminal] WRITE: [press Enter to skip] 
+[2021-12-27 06:53:22Z INFO Terminal] READ LINE
+[2021-12-27 06:53:40Z INFO Terminal] Read value: 'Testing '
+[2021-12-27 06:53:40Z INFO Terminal] WRITE LINE: 
+[2021-12-27 06:53:41Z INFO ConfigurationStore] Saving OAuth credential @ C:\Users\jayeshs\GIT\actions-runner\.credentials
+[2021-12-27 06:53:41Z INFO ConfigurationStore] Delete exist runner credential file.
+[2021-12-27 06:53:41Z INFO ConfigurationStore] Credentials Saved.
+[2021-12-27 06:53:41Z INFO ConfigurationStore] HasCredentials()
+[2021-12-27 06:53:41Z INFO ConfigurationStore] stored True
+[2021-12-27 06:53:41Z INFO CredentialManager] GetCredentialProvider
+[2021-12-27 06:53:41Z INFO CredentialManager] Creating type OAuth
+[2021-12-27 06:53:41Z INFO CredentialManager] Creating credential type: OAuth
+[2021-12-27 06:53:41Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\jayeshs\GIT\actions-runner\.credentials_rsaparams
+[2021-12-27 06:53:41Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2021-12-27 06:53:41Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-12-27 06:53:41Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-12-27 06:53:41Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-12-27 06:53:41Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-12-27 06:53:41Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-12-27 06:53:41Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-12-27 06:53:42Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-12-27 06:53:42Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-12-27 06:53:42Z WARN GitHubActionsService] Authentication failed with status code 401.
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: 4ea1bad7-3135-490a-a41a-e9363eb07928
+ActivityId: 5ceaf527-780a-44c5-a16f-125ea54a4942
+X-TFS-Session: 1ac7cabd-bcbc-49c7-9956-5bd5ed6793a9
+X-VSS-E2EID: 4a8798fb-182d-43f6-b6c7-b74966e5e1e3
+X-VSS-SenderDeploymentId: 2c974d96-2c30-cef5-eff2-3e0511a903a5
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 0A3E2FC9E4E1429F8A1783BFA1461D78 Ref B: BOM02EDGE0417 Ref C: 2021-12-27T06:53:17Z
+Date: Mon, 27 Dec 2021 06:53:17 GMT
+
+[2021-12-27 06:53:42Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\jayeshs\GIT\actions-runner\.credentials_rsaparams
+[2021-12-27 06:53:42Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\jayeshs\GIT\actions-runner\.credentials_rsaparams
+[2021-12-27 06:53:43Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2021-12-27 06:53:43Z INFO CommandSettings] Arg 'work': ''
+[2021-12-27 06:53:43Z INFO CommandSettings] Flag 'unattended': 'False'
+[2021-12-27 06:53:43Z INFO PromptManager] ReadValue
+[2021-12-27 06:53:43Z INFO Terminal] WRITE: Enter name of work folder: 
+[2021-12-27 06:53:43Z INFO Terminal] WRITE: [press Enter for _work] 
+[2021-12-27 06:53:43Z INFO Terminal] READ LINE
+[2021-12-27 06:54:10Z INFO Terminal] Read value: ''
+[2021-12-27 06:54:10Z INFO PromptManager] Falling back to the default: '_work'
+[2021-12-27 06:54:10Z INFO ConfigurationStore] Saving runner settings.
+[2021-12-27 06:54:10Z INFO ConfigurationStore] Settings Saved.
+[2021-12-27 06:54:10Z INFO Terminal] WRITE LINE: 
+[2021-12-27 06:54:10Z INFO Terminal] WRITE LINE: 
+[2021-12-27 06:54:10Z INFO CommandSettings] Flag 'runasservice': 'False'
+[2021-12-27 06:54:10Z INFO CommandSettings] Flag 'unattended': 'False'
+[2021-12-27 06:54:10Z INFO PromptManager] ReadValue
+[2021-12-27 06:54:10Z INFO Terminal] WRITE: Would you like to run the runner as service? (Y/N) 
+[2021-12-27 06:54:10Z INFO Terminal] WRITE: [press Enter for N] 
+[2021-12-27 06:54:10Z INFO Terminal] READ LINE
+[2021-12-27 06:54:19Z INFO Terminal] Read value: 'Y'
+[2021-12-27 06:54:19Z INFO ConfigurationManager] Configuring to run the agent as service
+[2021-12-27 06:54:19Z INFO CommandSettings] Arg 'windowslogonaccount': ''
+[2021-12-27 06:54:19Z INFO CommandSettings] Flag 'unattended': 'False'
+[2021-12-27 06:54:19Z INFO PromptManager] ReadValue
+[2021-12-27 06:54:19Z INFO Terminal] WRITE: User account to use for the service 
+[2021-12-27 06:54:19Z INFO Terminal] WRITE: [press Enter for NT AUTHORITY\NETWORK SERVICE] 
+[2021-12-27 06:54:19Z INFO Terminal] READ LINE
+[2021-12-27 06:54:22Z INFO Terminal] Read value: ''
+[2021-12-27 06:54:22Z INFO PromptManager] Falling back to the default: 'NT AUTHORITY\NETWORK SERVICE'
+[2021-12-27 06:54:22Z INFO WindowsServiceControlManager] LogonAccount after transforming: NT AUTHORITY\NETWORK SERVICE, user: NETWORK SERVICE, domain: NT AUTHORITY
+[2021-12-27 06:54:22Z INFO WindowsServiceControlManager] Service name 'actions.runner.demo-canarys-GITHUB-actions.jayesh' display name 'GitHub Actions Runner (demo-canarys-GITHUB-actions.jayesh)' will be used for service configuration.
+[2021-12-27 06:54:22Z INFO WindowsServiceControlManager] Verifying if the account has LogonAsService permission
+[2021-12-27 06:54:22Z INFO NativeWindowsServiceHelper] Successfully grant logon as service privilege to account 'NETWORK SERVICE'
+[2021-12-27 06:54:22Z INFO WindowsServiceControlManager] Create local group and grant folder permission to service logon account.
+[2021-12-27 06:54:22Z INFO HostContext] Well known directory 'Bin': 'C:\Users\jayeshs\GIT\actions-runner\bin'
+[2021-12-27 06:54:22Z INFO HostContext] Well known directory 'Root': 'C:\Users\jayeshs\GIT\actions-runner'
+[2021-12-27 06:54:22Z INFO ConfigurationStore] Read setting file: 298 chars
+[2021-12-27 06:54:22Z INFO HostContext] Well known directory 'Bin': 'C:\Users\jayeshs\GIT\actions-runner\bin'
+[2021-12-27 06:54:22Z INFO HostContext] Well known directory 'Root': 'C:\Users\jayeshs\GIT\actions-runner'
+[2021-12-27 06:54:22Z INFO HostContext] Well known directory 'Work': 'C:\Users\jayeshs\GIT\actions-runner\_work'
+[2021-12-27 06:54:22Z INFO HostContext] Well known directory 'Bin': 'C:\Users\jayeshs\GIT\actions-runner\bin'
+[2021-12-27 06:54:22Z INFO NativeWindowsServiceHelper] Calculated unique group name GITHUB_ActionsRunner_Gde556
+[2021-12-27 06:54:22Z INFO NativeWindowsServiceHelper] Trying to create group GITHUB_ActionsRunner_Gde556
+[2021-12-27 06:54:22Z INFO NativeWindowsServiceHelper] Local Group 'GITHUB_ActionsRunner_Gde556' created
+[2021-12-27 06:54:22Z INFO NativeWindowsServiceHelper] Trying to add userName NT AUTHORITY\NETWORK SERVICE to the group GITHUB_ActionsRunner_Gde556
+[2021-12-27 06:54:22Z INFO NativeWindowsServiceHelper] Account 'NT AUTHORITY\NETWORK SERVICE' is added to local group 'GITHUB_ActionsRunner_Gde556'.
+[2021-12-27 06:54:22Z INFO NativeWindowsServiceHelper] Set full access control to group for the folder C:\Users\jayeshs\GIT\actions-runner
+[2021-12-27 06:54:22Z INFO NativeWindowsServiceHelper] Set full access control to group for the folder C:\Users\jayeshs\GIT\actions-runner\_work
+[2021-12-27 06:54:22Z INFO NativeWindowsServiceHelper] Local group 'GITHUB_ActionsRunner_Gde556' already has full control to path 'C:\Users\jayeshs\GIT\actions-runner\_work'.
+[2021-12-27 06:54:22Z INFO Terminal] WRITE LINE: Granting file permissions to 'NT AUTHORITY\NETWORK SERVICE'.
+[2021-12-27 06:54:22Z INFO HostContext] Well known directory 'Bin': 'C:\Users\jayeshs\GIT\actions-runner\bin'
+[2021-12-27 06:54:22Z INFO ProcessInvokerWrapper] Starting process:
+[2021-12-27 06:54:22Z INFO ProcessInvokerWrapper]   File name: '"C:\Users\jayeshs\GIT\actions-runner\bin\RunnerService.exe"'
+[2021-12-27 06:54:22Z INFO ProcessInvokerWrapper]   Arguments: 'init'
+[2021-12-27 06:54:22Z INFO ProcessInvokerWrapper]   Working directory: ''
+[2021-12-27 06:54:22Z INFO ProcessInvokerWrapper]   Require exit code zero: 'True'
+[2021-12-27 06:54:22Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2021-12-27 06:54:22Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2021-12-27 06:54:22Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2021-12-27 06:54:22Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2021-12-27 06:54:22Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2021-12-27 06:54:22Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2021-12-27 06:54:22Z INFO ProcessInvokerWrapper] Process started with process id 3888, waiting for process exit.
+[2021-12-27 06:54:22Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-12-27 06:54:22Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-12-27 06:54:22Z INFO ProcessInvokerWrapper] Finished process 3888 with exit code 0, and elapsed time 00:00:00.0917754.
+[2021-12-27 06:54:22Z INFO Terminal] WRITE LINE: Service actions.runner.demo-canarys-GITHUB-actions.jayesh successfully installed
+[2021-12-27 06:54:22Z INFO Terminal] WRITE LINE: Service actions.runner.demo-canarys-GITHUB-actions.jayesh successfully set recovery option
+[2021-12-27 06:54:22Z INFO Terminal] WRITE LINE: Service actions.runner.demo-canarys-GITHUB-actions.jayesh successfully set to delayed auto start
+[2021-12-27 06:54:22Z INFO Terminal] WRITE LINE: Service actions.runner.demo-canarys-GITHUB-actions.jayesh successfully configured
+[2021-12-27 06:54:22Z INFO HostContext] Well known directory 'Bin': 'C:\Users\jayeshs\GIT\actions-runner\bin'
+[2021-12-27 06:54:22Z INFO HostContext] Well known directory 'Root': 'C:\Users\jayeshs\GIT\actions-runner'
+[2021-12-27 06:54:22Z INFO HostContext] Well known config file 'Service': 'C:\Users\jayeshs\GIT\actions-runner\.service'
+[2021-12-27 06:54:22Z INFO WindowsServiceControlManager] Configuration was successful, trying to start the service
+[2021-12-27 06:54:22Z INFO Terminal] WRITE LINE: Waiting for service to start...
+[2021-12-27 06:54:23Z INFO Terminal] WRITE LINE: Service actions.runner.demo-canarys-GITHUB-actions.jayesh started successfully
+[2021-12-27 06:54:23Z INFO Listener] Runner execution has finished with return code 0

@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "jayesh",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/z9zCwWFDLRzh1nk3ompnlX8EW0yC3cnkbDkpVBhxM8naua8Rwd",
+  "gitHubUrl": "https://github.com/demo-canarys/GITHUB-actions",
+  "workFolder": "_work"
+}

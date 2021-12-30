@@ -1,0 +1,133 @@
+[2021-12-29 07:47:25Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2021-12-29 07:47:25Z INFO HostContext] Well known directory 'Bin': 'C:\Users\jayeshs\GIT\actions-runner\bin'
+[2021-12-29 07:47:25Z INFO HostContext] Well known directory 'Root': 'C:\Users\jayeshs\GIT\actions-runner'
+[2021-12-29 07:47:25Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\jayeshs\GIT\actions-runner\.credentials'
+[2021-12-29 07:47:25Z INFO HostContext] Well known directory 'Bin': 'C:\Users\jayeshs\GIT\actions-runner\bin'
+[2021-12-29 07:47:25Z INFO HostContext] Well known directory 'Root': 'C:\Users\jayeshs\GIT\actions-runner'
+[2021-12-29 07:47:25Z INFO HostContext] Well known config file 'Runner': 'C:\Users\jayeshs\GIT\actions-runner\.runner'
+[2021-12-29 07:47:25Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2021-12-29 07:47:25Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.22000.
+[2021-12-29 07:47:25Z INFO Listener] Version: 2.285.1
+[2021-12-29 07:47:25Z INFO Listener] Commit: 50afba61b40932c1084e31b5e9e7f5af325cc2ac
+[2021-12-29 07:47:25Z INFO Listener] Culture: en-IN
+[2021-12-29 07:47:25Z INFO Listener] UI Culture: en-US
+[2021-12-29 07:47:25Z INFO HostContext] Well known directory 'Bin': 'C:\Users\jayeshs\GIT\actions-runner\bin'
+[2021-12-29 07:47:25Z INFO HostContext] Well known directory 'Root': 'C:\Users\jayeshs\GIT\actions-runner'
+[2021-12-29 07:47:25Z INFO Listener] Validating directory permissions for: 'C:\Users\jayeshs\GIT\actions-runner'
+[2021-12-29 07:47:25Z INFO CommandLineParser] Parse
+[2021-12-29 07:47:25Z INFO CommandLineParser] Parsing 1 args
+[2021-12-29 07:47:25Z INFO CommandLineParser] parsing argument
+[2021-12-29 07:47:25Z INFO CommandLineParser] HasArgs: False
+[2021-12-29 07:47:25Z INFO CommandLineParser] Adding Command: run
+[2021-12-29 07:47:25Z INFO Listener] Arguments parsed
+[2021-12-29 07:47:25Z INFO Runner] ExecuteCommand
+[2021-12-29 07:47:25Z INFO ConfigurationStore] currentAssemblyLocation: C:\Users\jayeshs\GIT\actions-runner\bin\Runner.Listener.dll
+[2021-12-29 07:47:25Z INFO HostContext] Well known directory 'Bin': 'C:\Users\jayeshs\GIT\actions-runner\bin'
+[2021-12-29 07:47:25Z INFO ConfigurationStore] binPath: C:\Users\jayeshs\GIT\actions-runner\bin
+[2021-12-29 07:47:25Z INFO HostContext] Well known directory 'Bin': 'C:\Users\jayeshs\GIT\actions-runner\bin'
+[2021-12-29 07:47:25Z INFO HostContext] Well known directory 'Root': 'C:\Users\jayeshs\GIT\actions-runner'
+[2021-12-29 07:47:25Z INFO ConfigurationStore] RootFolder: C:\Users\jayeshs\GIT\actions-runner
+[2021-12-29 07:47:25Z INFO HostContext] Well known directory 'Bin': 'C:\Users\jayeshs\GIT\actions-runner\bin'
+[2021-12-29 07:47:25Z INFO HostContext] Well known directory 'Root': 'C:\Users\jayeshs\GIT\actions-runner'
+[2021-12-29 07:47:25Z INFO HostContext] Well known config file 'Runner': 'C:\Users\jayeshs\GIT\actions-runner\.runner'
+[2021-12-29 07:47:25Z INFO ConfigurationStore] ConfigFilePath: C:\Users\jayeshs\GIT\actions-runner\.runner
+[2021-12-29 07:47:25Z INFO HostContext] Well known directory 'Bin': 'C:\Users\jayeshs\GIT\actions-runner\bin'
+[2021-12-29 07:47:25Z INFO HostContext] Well known directory 'Root': 'C:\Users\jayeshs\GIT\actions-runner'
+[2021-12-29 07:47:25Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\jayeshs\GIT\actions-runner\.credentials'
+[2021-12-29 07:47:25Z INFO ConfigurationStore] CredFilePath: C:\Users\jayeshs\GIT\actions-runner\.credentials
+[2021-12-29 07:47:25Z INFO HostContext] Well known directory 'Bin': 'C:\Users\jayeshs\GIT\actions-runner\bin'
+[2021-12-29 07:47:25Z INFO HostContext] Well known directory 'Root': 'C:\Users\jayeshs\GIT\actions-runner'
+[2021-12-29 07:47:25Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Users\jayeshs\GIT\actions-runner\.credentials_migrated'
+[2021-12-29 07:47:25Z INFO ConfigurationStore] MigratedCredFilePath: C:\Users\jayeshs\GIT\actions-runner\.credentials_migrated
+[2021-12-29 07:47:25Z INFO HostContext] Well known directory 'Bin': 'C:\Users\jayeshs\GIT\actions-runner\bin'
+[2021-12-29 07:47:25Z INFO HostContext] Well known directory 'Root': 'C:\Users\jayeshs\GIT\actions-runner'
+[2021-12-29 07:47:25Z INFO HostContext] Well known config file 'Service': 'C:\Users\jayeshs\GIT\actions-runner\.service'
+[2021-12-29 07:47:25Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Users\jayeshs\GIT\actions-runner\.service
+[2021-12-29 07:47:25Z INFO CommandSettings] Flag 'help': 'False'
+[2021-12-29 07:47:25Z INFO CommandSettings] Flag 'version': 'False'
+[2021-12-29 07:47:25Z INFO CommandSettings] Flag 'commit': 'False'
+[2021-12-29 07:47:25Z INFO CommandSettings] Flag 'check': 'False'
+[2021-12-29 07:47:25Z INFO CommandSettings] Command 'configure': 'False'
+[2021-12-29 07:47:25Z INFO CommandSettings] Command 'remove': 'False'
+[2021-12-29 07:47:25Z INFO CommandSettings] Command 'warmup': 'False'
+[2021-12-29 07:47:25Z INFO ConfigurationManager] LoadSettings
+[2021-12-29 07:47:25Z INFO ConfigurationStore] IsConfigured()
+[2021-12-29 07:47:25Z INFO ConfigurationStore] IsConfigured: True
+[2021-12-29 07:47:25Z INFO ConfigurationManager] Is configured: True
+[2021-12-29 07:47:25Z INFO ConfigurationStore] Read setting file: 298 chars
+[2021-12-29 07:47:25Z INFO ConfigurationManager] Settings Loaded
+[2021-12-29 07:47:25Z INFO ConfigurationStore] IsServiceConfigured()
+[2021-12-29 07:47:25Z INFO ConfigurationStore] IsServiceConfigured: True
+[2021-12-29 07:47:25Z INFO CommandSettings] Command 'run': 'True'
+[2021-12-29 07:47:25Z INFO ConfigurationStore] IsConfigured()
+[2021-12-29 07:47:25Z INFO ConfigurationStore] IsConfigured: True
+[2021-12-29 07:47:25Z INFO ConfigurationManager] Is configured: True
+[2021-12-29 07:47:25Z INFO Runner] Try determine runner startup type base on console redirects.
+[2021-12-29 07:47:25Z INFO Runner] Set runner startup type - Manual
+[2021-12-29 07:47:25Z INFO CommandSettings] Flag 'once': 'False'
+[2021-12-29 07:47:25Z INFO CommandSettings] Flag 'once': 'False'
+[2021-12-29 07:47:25Z INFO Runner] RunAsync
+[2021-12-29 07:47:25Z INFO ConfigurationManager] LoadSettings
+[2021-12-29 07:47:25Z INFO ConfigurationStore] IsConfigured()
+[2021-12-29 07:47:25Z INFO ConfigurationStore] IsConfigured: True
+[2021-12-29 07:47:25Z INFO ConfigurationManager] Is configured: True
+[2021-12-29 07:47:25Z INFO ConfigurationManager] Settings Loaded
+[2021-12-29 07:47:25Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "jayesh",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelines.actions.githubusercontent.com/z9zCwWFDLRzh1nk3ompnlX8EW0yC3cnkbDkpVBhxM8naua8Rwd",
+  "GitHubUrl": "https://github.com/demo-canarys/GITHUB-actions",
+  "WorkFolder": "_work"
+}
+[2021-12-29 07:47:25Z INFO MessageListener] Loading Credentials
+[2021-12-29 07:47:25Z INFO ConfigurationStore] HasCredentials()
+[2021-12-29 07:47:25Z INFO ConfigurationStore] stored True
+[2021-12-29 07:47:25Z INFO CredentialManager] GetCredentialProvider
+[2021-12-29 07:47:25Z INFO CredentialManager] Creating type OAuth
+[2021-12-29 07:47:25Z INFO CredentialManager] Creating credential type: OAuth
+[2021-12-29 07:47:25Z INFO HostContext] Well known directory 'Bin': 'C:\Users\jayeshs\GIT\actions-runner\bin'
+[2021-12-29 07:47:25Z INFO HostContext] Well known directory 'Root': 'C:\Users\jayeshs\GIT\actions-runner'
+[2021-12-29 07:47:25Z INFO HostContext] Well known config file 'RSACredentials': 'C:\Users\jayeshs\GIT\actions-runner\.credentials_rsaparams'
+[2021-12-29 07:47:25Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\jayeshs\GIT\actions-runner\.credentials_rsaparams
+[2021-12-29 07:47:25Z INFO MessageListener] Attempt to create session.
+[2021-12-29 07:47:25Z INFO MessageListener] Connecting to the Runner Server...
+[2021-12-29 07:47:25Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2021-12-29 07:47:26Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-12-29 07:47:26Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-12-29 07:47:26Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-12-29 07:47:26Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-12-29 07:47:26Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-12-29 07:47:26Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-12-29 07:47:27Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-12-29 07:47:27Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-12-29 07:47:27Z INFO MessageListener] VssConnection created
+[2021-12-29 07:47:27Z INFO Terminal] WRITE LINE: 
+[2021-12-29 07:47:27Z INFO Terminal] WRITE LINE: 
+[2021-12-29 07:47:27Z WARN GitHubActionsService] Authentication failed with status code 401.
+Transfer-Encoding: chunked
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: 277c99e0-0d9d-4804-b7ae-b2a6cd8b841c
+ActivityId: f754fe0a-aa7b-4086-acec-650a77fef7dc
+X-TFS-Session: c07f2634-68ce-44df-b089-31174c465d2c
+X-VSS-E2EID: b869a927-1c74-4f5d-903e-480a37023511
+X-VSS-SenderDeploymentId: 2c974d96-2c30-cef5-eff2-3e0511a903a5
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 6092A05B40F7453D8C7E989CED035E66 Ref B: BOM02EDGE0714 Ref C: 2021-12-29T07:47:00Z
+Date: Wed, 29 Dec 2021 07:47:00 GMT
+
+[2021-12-29 07:47:27Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\jayeshs\GIT\actions-runner\.credentials_rsaparams
+[2021-12-29 07:47:27Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\jayeshs\GIT\actions-runner\.credentials_rsaparams
+[2021-12-29 07:47:27Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2021-12-29 07:47:27Z INFO MessageListener] Session created.
+[2021-12-29 07:47:27Z INFO Terminal] WRITE LINE: Current runner version: '2.285.1'
+[2021-12-29 07:47:27Z INFO Terminal] WRITE LINE: 2021-12-29 07:47:27Z: Listening for Jobs
+[2021-12-29 07:47:27Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2021-12-29 07:47:40Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2021-12-29 07:47:40Z WARN GitHubActionsService] GET request to https://pipelines.actions.githubusercontent.com/z9zCwWFDLRzh1nk3ompnlX8EW0yC3cnkbDkpVBhxM8naua8Rwd/_apis/distributedtask/pools/1/messages?sessionId=7b7d5aca-4383-4391-8775-dcc5805a40de has been cancelled.
+[2021-12-29 07:47:40Z INFO MessageListener] Get next message has been cancelled.
+[2021-12-29 07:47:40Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
